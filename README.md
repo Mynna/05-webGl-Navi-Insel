@@ -2,4 +2,4 @@
 Navigate with keys: W, A, S , D 
 
 
-![insel](Islalnd.png)
+![insel](Island.png)
